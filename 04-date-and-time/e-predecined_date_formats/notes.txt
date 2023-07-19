@@ -1,0 +1,2 @@
+https://doc.qt.io/qt-6/qlocale.html
+https://stackoverflow.com/questions/40236962/how-to-use-qtsystemlocaleshortdate-in-qdatetimeedit

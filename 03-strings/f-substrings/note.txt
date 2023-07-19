@@ -1,0 +1,2 @@
+https://doc.qt.io/qt-6/qtcore-changes-qt6.html
+https://doc.qt.io/qt-6/qstringview.html#sliced
